@@ -1,6 +1,6 @@
 [![email](https://img.shields.io/badge/Click_to_contact_me!-grey?style=flat-rounded&logo=maildotru&link=mailto:techno-backlog.0q@icloud.com)](mailto:techno-backlog.0q@icloud.com)
 
-**ZEC**, **XMR** and **USDT-TRC20** donations are welcome:
+**ZEC**, **XMR** and **USDT-TRC20** crypto donations are welcome:
 
 <img align="left" alt="Zcash (ZEC) address" width="50px" height="50px" src="https://simpleicons.org/icons/zcash.svg">
 
