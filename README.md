@@ -10,5 +10,5 @@
 <img align="left" alt="USDT TRC20 address" height="50px" src="https://tether.to/images/logoCircle.png">
 
 ```
-USDT TRC20 ONLY TC7m95fhcEB6gadPZCbPqVgrWXPLSRpFC7
+TC7m95fhcEB6gadPZCbPqVgrWXPLSRpFC7
 ```
