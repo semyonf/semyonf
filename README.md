@@ -7,3 +7,8 @@
 ```
 8Agvb9NpVfQZAnYi6CV6o7K25RdJHA9W6JjmvoppCrDZVp9sVMtqQvNTBdrpSYxuZpJS6UEsnrVZS5ugi4LhJ6Z62WyrbEL
 ```
+<img align="left" alt="USDT TRC20 address" height="50px" src="https://tether.to/images/logoCircle.png">
+
+```
+USDT TRC20 ONLY TC7m95fhcEB6gadPZCbPqVgrWXPLSRpFC7
+```
