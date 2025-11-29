@@ -1,4 +1,4 @@
-[![email](https://img.shields.io/badge/Click_to_contact_me!-grey?style=flat-rounded&logo=maildotru&link=mailto:techno-backlog.0q@icloud.com)](mailto:techno-backlog.0q@icloud.com)
+[![email](https://img.shields.io/badge/Click_here_to_contact_me!-grey?style=flat-rounded&logo=maildotru&link=mailto:techno-backlog.0q@icloud.com)](mailto:techno-backlog.0q@icloud.com)
 
 **Zcash**, **Monero** and **USDT-TRC20** crypto donations are welcome:
 
