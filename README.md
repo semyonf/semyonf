@@ -21,5 +21,5 @@ u1yam29c0dvqljn532mrx6r5rmjed24cmuc4pnlvd45acwkh0uxh5k0jw9a8sc33pgwxjhemju2ywapu
 <img align="left" alt="USDT TRC20 address" width="50px" height="50px" src="https://simpleicons.org/icons/tether.svg">
 
 ```
-TC7m95fhcEB6gadPZCbPqVgrWXPLSRpFC7
+TYYBZ2vvLDnDzf6hNhsFS8zScpZhsm7YYK
 ```
